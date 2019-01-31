@@ -7,3 +7,7 @@ Ce document a 2 buts :
 - introduire les mots directement en kanjis et furiganas afin de se familiariser avec les kanjis
 
 N'hésitez pas à apporter les corrections qui pourraient être nécessaires et à enrichir le document avec plus de vocabulaire :)
+
+## Police utilisée
+
+La police utilisée pour les caractères japonais est [Hanazono](http://fonts.jp/hanazono/).
