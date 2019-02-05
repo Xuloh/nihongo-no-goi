@@ -11,3 +11,7 @@ N'hésitez pas à apporter les corrections qui pourraient être nécessaires et 
 ## Police utilisée
 
 La police utilisée pour les caractères japonais est [Hanazono](http://fonts.jp/hanazono/).
+
+## Téléchargement en PDF
+
+Le document peut être téléchargé au format PDF à [cette adresse](https://drive.google.com/open?id=1LaEpK8YskHzZLusHL7tEQUB6dUtA2Op_).
