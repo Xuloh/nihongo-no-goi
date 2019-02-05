@@ -1,6 +1,9 @@
 # config file for atom-latex package : https://atom.io/packages/atom-latex
 .latexcfg
 
+# bash files
+*.sh
+
 # Created by https://www.gitignore.io/api/latex
 # Edit at https://www.gitignore.io/?templates=latex
 
